@@ -1,0 +1,37 @@
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Service\bin\Release\BookATable.Service.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Service\bin\Release\BookATable.Service.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Service\bin\Release\BookATable.Entity.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Service\bin\Release\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Service\obj\Release\BookATable.Service.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Service\obj\Release\BookATable.Service.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Service\obj\Release\BookATable.Service.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Service\obj\Release\BookATable.Service.pdb
+C:\Users\ACER\Desktop\BookATable\BookATable.Service\bin\Release\BookATable.Service.dll
+C:\Users\ACER\Desktop\BookATable\BookATable.Service\bin\Release\BookATable.Service.pdb
+C:\Users\ACER\Desktop\BookATable\BookATable.Service\bin\Release\BookATable.Entity.dll
+C:\Users\ACER\Desktop\BookATable\BookATable.Service\bin\Release\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\BookATable\BookATable.Service\obj\Release\BookATable.Service.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BookATable\BookATable.Service\obj\Release\BookATable.Service.dll
+C:\Users\ACER\Desktop\BookATable\BookATable.Service\obj\Release\BookATable.Service.pdb
+C:\Users\ACER\Desktop\BookATable\BookATable.Service\obj\Release\BookATable.Service.csprojResolveAssemblyReference.cache
+D:\University\BookATable\BookATable.Service\bin\Release\BookATable.Service.dll
+D:\University\BookATable\BookATable.Service\bin\Release\BookATable.Service.pdb
+D:\University\BookATable\BookATable.Service\bin\Release\BookATable.Entity.dll
+D:\University\BookATable\BookATable.Service\bin\Release\BookATable.Entity.pdb
+D:\University\BookATable\BookATable.Service\obj\Release\BookATable.Service.csprojAssemblyReference.cache
+D:\University\BookATable\BookATable.Service\obj\Release\BookATable.Service.csproj.CoreCompileInputs.cache
+D:\University\BookATable\BookATable.Service\obj\Release\BookATable.Service.csproj.CopyComplete
+D:\University\BookATable\BookATable.Service\obj\Release\BookATable.Service.dll
+D:\University\BookATable\BookATable.Service\obj\Release\BookATable.Service.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\obj\Release\BookATable.Service.csprojAssemblyReference.cache
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\obj\Release\BookATable.Service.csproj.CoreCompileInputs.cache
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\obj\Release\BookATable.Service.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\obj\Release\BookATable.Service.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\bin\Release\BookATable.Service.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\bin\Release\BookATable.Service.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\bin\Release\BookATable.Data.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\bin\Release\EntityFramework.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\bin\Release\BookATable.Data.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\bin\Release\BookATable.Data.dll.config
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\bin\Release\EntityFramework.xml
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Service\obj\Release\BookATable.Service.csproj.CopyComplete

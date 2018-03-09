@@ -1,0 +1,168 @@
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\BookATable.dll.config
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\BookATable.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\BookATable.pdb
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\BookATable.Data.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\BookATable.Entity.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Webpages.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Webpages.Razor.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\BookATable.Data.pdb
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\BookATable.Data.dll.config
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Webpages.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Webpages.Razor.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable\obj\Release\BookATable.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\BookATable1\BookATable\obj\Release\BookATable.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BookATable1\BookATable\obj\Release\BookATable.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable\obj\Release\BookATable.pdb
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\BookATable.dll.config
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\BookATable.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\BookATable.pdb
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\BookATable.Data.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\BookATable.Entity.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Webpages.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Webpages.Razor.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\BookATable.Data.pdb
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\BookATable.Data.dll.config
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Webpages.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Webpages.Razor.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\obj\Release\BookATable.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\obj\Release\BookATable.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\obj\Release\BookATable.dll
+C:\Users\ACER\Desktop\Нова папка (5)\BookATable1\BookATable\obj\Release\BookATable.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\ApplicationInsights.config
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\BookATable.dll.config
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\BookATable.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\BookATable.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\BookATable.Data.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\BookATable.Entity.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\EntityFramework.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.Web.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Helpers.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Mvc.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Razor.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Webpages.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Webpages.Razor.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\BookATable.Data.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\BookATable.Data.dll.config
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\EntityFramework.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.Web.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Razor.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Webpages.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Webpages.Razor.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Helpers.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\bin\System.Web.Mvc.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\obj\Release\BookATable.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\obj\Release\BookATable.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\obj\Release\BookATable.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable\obj\Release\BookATable.pdb

@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "7881e720106c1c933385642dd74dceb230b8ca52"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "BookATable.Repository/1.0.0": {
+        "dependencies": {
+          "BookATable.Data": "1.0.0",
+          "EntityFramework": "6.0.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "BookATable.Repository.dll": {}
+        }
+      },
+      "EntityFramework/6.0.0": {
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.20911.0"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.20911.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "BookATable.Data/1.0.0": {
+        "runtime": {
+          "BookATable.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookATable.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityFramework/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4uZdAlqrPj8Bvw3NewUZx3KkDbKXfnL4w2MPLEdL1ITyQshKzng2/VZIt+Ei9BmeBx81TvZLCl9sAWnjDHbsiw==",
+      "path": "entityframework/6.0.0",
+      "hashPath": "entityframework.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "BookATable.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

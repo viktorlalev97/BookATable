@@ -1,0 +1,46 @@
+﻿@model BookATable.ViewModels.Users.UsersListViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1 style="text-align:center; margin-top:25px;">Users</h1>
+
+<button class="btn btn-success glypchicon glyphicon-pencil"style="margin-bottom:20px">
+    @Html.ActionLink("Create new", "Create", "Users")
+</button>
+<table class="table">
+    <thead>
+        <tr class="#d40305" style="background:#d40305 none repeat scroll 0 0">
+            <th style="text-align:center;">Image</th>
+            <th style="text-align:center;">Username</th>
+            <th style="text-align:center;">Email</th>
+            <th style="text-align:center;">Password</th>
+            <th style="text-align:center;">First Name</th>
+            <th style="text-align:center;">Last Name</th>
+            <th style="text-align:center;">Is Admin</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr class="bg-info text-white" style="text-align:center;">
+                <td><img src="@user.ImgURL" alt="image" style="width:60px; height:80px;" /></td>
+                <td>@user.Username</td>
+                <td>@user.Email</td>
+                <td>@user.Password</td>
+                <td>@user.FirstName</td>
+                <td>@user.LastName</td>
+                <td>@user.IsAdmin</td>
+                <td>
+                    <button class="btn-default">
+                        @Html.ActionLink("Edit", "Edit", "Users", new { id = user.ID }, null)
+                    </button>
+                    <button class="btn-default">
+                        @Html.ActionLink("Delete", "Delete", "Users", new { id = user.ID }, null)
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

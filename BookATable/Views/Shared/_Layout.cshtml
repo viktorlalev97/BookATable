@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title -BookATable</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <style>
+        .navbar-inverse .navbar-nav > li > a {
+            color:white;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background:#d40305 none repeat scroll 0 0">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("BookATable", "Index", "Reservation", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+
+                    <li>@Html.ActionLink("Home", "IndexPage", "Home")</li>
+
+                    @{
+        //if (BookATable.Filters.AdminFilter.IsAdmin())
+        {
+                <li>@Html.ActionLink("Users", "Index", "Users")</li>
+}
+if (HttpContext.Current.Session["LoggedUser"] != null)
+{
+
+                <li>@Html.ActionLink("Reservations", "Index", "Reservation")</li>
+                <li>@Html.ActionLink("Restaurants", "Index", "Restaurants")</li>
+                <li>@Html.ActionLink("Profile", "Profile", "Users")</li>
+                <li>@Html.ActionLink("Logout", "Logout", "Home")</li>
+}
+                    }
+
+
+                    @{
+        if (HttpContext.Current.Session["LoggedUser"] == null)
+        {
+                <li>@Html.ActionLink("Register", "Register", "Users")</li>
+                <li>@Html.ActionLink("Login", "Login", "Home")</li>
+}
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - BookATable</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

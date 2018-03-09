@@ -1,0 +1,90 @@
+﻿
+@model BookATable.ViewModels.Users.UsersEditViewModel
+
+@{
+    ViewBag.Title = "Profile";
+}
+
+<h2 style="text-align:center; margin-top:30px; color:#333;  margin-bottom: 20px; font-size:35px;">Edit Profile</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+
+        <div class="form-group">
+            <img src="@Model.ImgURL" alt="image" style="width:160px; height:200px; padding-bottom:1em;" />
+            @Html.LabelFor(model => model.ImgURL, "ImgURL", new { @class = "control-label col-md-5", @style = "color: #333; font-size:15px;" })
+
+            @Html.TextBoxFor(model => model.ImgURL, new { @class = "form-control col-md-offset-5" })
+            @Html.ValidationMessageFor(model => model.ImgURL)
+
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, "Email", htmlAttributes: new { @class = "control-label col-md-5"})
+
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control col-md-offset-5" } })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+
+        </div>
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Username, "Username", htmlAttributes: new { @class = "control-label col-md-5" })
+
+            @Html.EditorFor(model => model.Username, new { htmlAttributes = new { @class = "form-control col-md-offset-5" } })
+            @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Password, "Password", htmlAttributes: new { @class = "control-label col-md-5"})
+
+            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control col-md-offset-5" } })
+            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FirstName, "First Name", htmlAttributes: new { @class = "control-label col-md-5" })
+
+            @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control col-md-offset-5" } })
+            @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LastName, "Last Name", htmlAttributes: new { @class = "control-label col-md-5"})
+
+            @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control col-md-offset-5" } })
+            @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+        </div>
+
+
+        @{
+            if (BookATable.Filters.AdminFilter.IsAdmin())
+            {
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.IsAdmin, "Is Admin", htmlAttributes: new { @class = "control-label col-md-5"})
+                    <div class="col-md-offset-5">
+                        <div class="checkbox">
+                            @Html.EditorFor(model => model.IsAdmin)
+                            @Html.ValidationMessageFor(model => model.IsAdmin, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        <div class="form-group">
+            <div class="col-md-offset-5 col-md-10">
+                <input type="submit" value="Edit" class="btn btn-success glypchicon glyphicon-pencil" />
+
+                <button class="btn btn-danger">
+                    @Html.ActionLink("Cancel", "Index")
+                </button>
+            </div>
+        </div>
+    </div>
+}

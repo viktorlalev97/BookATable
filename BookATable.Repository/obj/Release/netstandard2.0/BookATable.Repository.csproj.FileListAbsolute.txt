@@ -1,0 +1,13 @@
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\obj\Release\netstandard2.0\BookATable.Repository.csproj.CoreCompileInputs.cache
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\obj\Release\netstandard2.0\BookATable.Repository.AssemblyInfoInputs.cache
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\obj\Release\netstandard2.0\BookATable.Repository.AssemblyInfo.cs
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\bin\Release\netstandard2.0\BookATable.Repository.deps.json
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\bin\Release\netstandard2.0\BookATable.Repository.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\bin\Release\netstandard2.0\BookATable.Data.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\bin\Release\netstandard2.0\BookATable.Data.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\bin\Release\netstandard2.0\BookATable.Data.dll.config
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\obj\Release\netstandard2.0\BookATable.Repository.csproj.CopyComplete
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\bin\Release\netstandard2.0\BookATable.Repository.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\obj\Release\netstandard2.0\BookATable.Repository.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\obj\Release\netstandard2.0\BookATable.Repository.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Repository\obj\Release\netstandard2.0\BookATable.Repository.csprojAssemblyReference.cache

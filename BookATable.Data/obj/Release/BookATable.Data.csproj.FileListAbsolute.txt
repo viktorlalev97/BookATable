@@ -1,0 +1,79 @@
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Release\BookATable.Data.dll.config
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Release\BookATable.Data.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Release\BookATable.Data.pdb
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Release\BookATable.Entity.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Release\EntityFramework.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Release\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Release\EntityFramework.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Release\BookATable.Data.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Release\BookATable.Data.Migrations.InitialCreate.resources
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Release\BookATable.Data.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Release\BookATable.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Release\BookATable.Data.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Release\BookATable.Data.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\bin\Release\BookATable.Data.dll.config
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\bin\Release\BookATable.Data.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\bin\Release\BookATable.Data.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\bin\Release\BookATable.Entity.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\bin\Release\EntityFramework.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\bin\Release\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\bin\Release\EntityFramework.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\obj\Release\BookATable.Data.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\obj\Release\BookATable.Data.Migrations.InitialCreate.resources
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\obj\Release\BookATable.Data.dll
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\obj\Release\BookATable.Data.pdb
+C:\Users\ACER\Desktop\Нова папка (6)\BookATable\BookATable.Data\obj\Release\BookATable.Data.Migrations.o1.resources
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\bin\Release\BookATable.Data.dll.config
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\bin\Release\BookATable.Data.dll
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\bin\Release\BookATable.Data.pdb
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\bin\Release\BookATable.Entity.dll
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\bin\Release\EntityFramework.dll
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\bin\Release\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\bin\Release\EntityFramework.xml
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.Migrations.InitialCreate.resources
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.Migrations.o1.resources
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.dll
+C:\Users\ACER\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.pdb
+D:\University\BookATable\BookATable.Data\bin\Release\BookATable.Data.dll.config
+D:\University\BookATable\BookATable.Data\bin\Release\BookATable.Data.dll
+D:\University\BookATable\BookATable.Data\bin\Release\BookATable.Data.pdb
+D:\University\BookATable\BookATable.Data\bin\Release\BookATable.Entity.dll
+D:\University\BookATable\BookATable.Data\bin\Release\EntityFramework.dll
+D:\University\BookATable\BookATable.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\University\BookATable\BookATable.Data\bin\Release\BookATable.Entity.pdb
+D:\University\BookATable\BookATable.Data\bin\Release\EntityFramework.xml
+D:\University\BookATable\BookATable.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\University\BookATable\BookATable.Data\obj\Release\BookATable.Data.csprojAssemblyReference.cache
+D:\University\BookATable\BookATable.Data\obj\Release\BookATable.Data.Migrations.InitialCreate.resources
+D:\University\BookATable\BookATable.Data\obj\Release\BookATable.Data.Migrations.o1.resources
+D:\University\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.GenerateResource.cache
+D:\University\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.CoreCompileInputs.cache
+D:\University\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.CopyComplete
+D:\University\BookATable\BookATable.Data\obj\Release\BookATable.Data.dll
+D:\University\BookATable\BookATable.Data\obj\Release\BookATable.Data.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\bin\Release\BookATable.Data.dll.config
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\bin\Release\BookATable.Data.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\bin\Release\BookATable.Data.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\bin\Release\EntityFramework.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\bin\Release\EntityFramework.xml
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.Migrations.InitialCreate.resources
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.Migrations.o1.resources
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.GenerateResource.cache
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.CoreCompileInputs.cache
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.csproj.CopyComplete
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.dll
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.pdb
+C:\Users\VIKITY\Desktop\BookATable\BookATable.Data\obj\Release\BookATable.Data.csprojAssemblyReference.cache

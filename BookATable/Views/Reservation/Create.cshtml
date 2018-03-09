@@ -1,0 +1,76 @@
+﻿@model BookATable.ViewModels.Reservations.ReservationsCreateViewModel
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Reservation</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ID)
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Restaurants, htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="col-md-10">
+                    <select name="RestaurantId" id="restaurants" class="form-control col-md-offset">
+                        @foreach (var item in Model.Restaurants)
+                        {
+                            <option value="@item.Value">@item.Text</option>
+                        }
+                    </select>
+                </div>
+        </div>
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.Users, htmlAttributes: new { @class = "control-label col-md-2" })
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="col-md-10">
+                    <select name="UserId" id="users" class="form-control">
+                        @foreach (var item in Model.Users)
+                        {
+                            <option value="@item.Value">@item.Text</option>
+                        }
+                    </select>
+                </div>
+        </div>*@
+        <div class="form-group">
+            @Html.LabelFor(model => model.PeopleCount, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PeopleCount, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PeopleCount, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ReservationTime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ReservationTime, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ReservationTime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Comment, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Comment, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Comment, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+
+
+

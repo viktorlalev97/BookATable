@@ -1,0 +1,558 @@
+﻿@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://demo.themegrill.com/foodhunt/xmlrpc.php">
+
+    <title>FoodHunt &#8211; Just another ThemeGrill Demo site</title>
+    <link rel='dns-prefetch' href='//s0.wp.com' />
+    <link rel='dns-prefetch' href='//secure.gravatar.com' />
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+    <link rel='dns-prefetch' href='//s.w.org' />
+    <link rel="alternate" type="application/rss+xml" title="FoodHunt &raquo; Feed" href="https://demo.themegrill.com/foodhunt/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="FoodHunt &raquo; Comments Feed" href="https://demo.themegrill.com/foodhunt/comments/feed/" />
+    <!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.8 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+    <script type="text/javascript" data-cfasync="false">
+        var disableStr = 'ga-disable-UA-48857077-1';
+
+        /* Function to detect opted out users */
+        function __gaTrackerIsOptedOut() {
+            return document.cookie.indexOf(disableStr + '=true') > -1;
+        }
+
+        /* Disable tracking if the opt-out cookie exists. */
+        if (__gaTrackerIsOptedOut()) {
+            window[disableStr] = true;
+        }
+
+        /* Opt-out function */
+        function __gaTrackerOptout() {
+            document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+            window[disableStr] = true;
+        }
+        (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', '__gaTracker');
+
+        __gaTracker('create', 'UA-48857077-1', 'auto');
+        __gaTracker('set', 'forceSSL', true);
+        __gaTracker('require', 'displayfeatures');
+        __gaTracker('require', 'linkid', 'linkid.js');
+        __gaTracker('send', 'pageview');
+    </script>
+    <!-- / Google Analytics by MonsterInsights -->
+    <script type="text/javascript">
+        window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/demo.themegrill.com\/foodhunt\/wp-includes\/js\/wp-emoji-release.min.js?ver=45ed39ed5f333134a42e2e919317b1a3" } };
+        !function (a, b, c) { function d(a, b) { var c = String.fromCharCode; l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, a), 0, 0); var d = k.toDataURL(); l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, b), 0, 0); var e = k.toDataURL(); return d === e } function e(a) { var b; if (!l || !l.fillText) return !1; switch (l.textBaseline = "top", l.font = "600 32px Arial", a) { case "flag": return !(b = d([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819])) && (b = d([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]), !b); case "emoji": return b = d([55357, 56692, 8205, 9792, 65039], [55357, 56692, 8203, 9792, 65039]), !b }return !1 } function f(a) { var c = b.createElement("script"); c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c) } var g, h, i, j, k = b.createElement("canvas"), l = k.getContext && k.getContext("2d"); for (j = Array("flag", "emoji"), c.supports = { everything: !0, everythingExceptFlag: !0 }, i = 0; i < j.length; i++)c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything && c.supports[j[i]], "flag" !== j[i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[j[i]]); c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function () { c.DOMReady = !0 }, c.supports.everything || (h = function () { c.readyCallback() }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load", h, !1)) : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function () { "complete" === b.readyState && c.readyCallback() })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji), f(g.wpemoji))) }(window, document, window._wpemojiSettings);
+    </script>
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+    </style>
+    <link rel='stylesheet' id='contact-form-7-css' href='https://demo.themegrill.com/foodhunt/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='photoswipe-css' href='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/css/photoswipe/photoswipe.css?ver=1.6.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='photoswipe-default-skin-css' href='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/css/photoswipe/default-skin/default-skin.css?ver=1.6.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='restaurantpress-layout-css' href='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/css/restaurantpress-layout.css?ver=1.6.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='restaurantpress-smallscreen-css' href='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/css/restaurantpress-smallscreen.css?ver=1.6.0' type='text/css' media='only screen and (max-width: 768px)' />
+    <link rel='stylesheet' id='restaurantpress-general-css' href='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/css/restaurantpress.css?ver=1.6.0' type='text/css' media='all' />
+    <style id='restaurantpress-general-inline-css' type='text/css'>
+
+        .restaurantpress .chef {
+            background: #d60e10 !important;
+        }
+
+            .restaurantpress .chef.grid::before,
+            .restaurantpress .chef.grid::after {
+                border-top-color: #d60e10 !important;
+            }
+
+        .restaurantpress-group span.price {
+            background: #d60e10 !important;
+        }
+
+        .restaurantpress span.price::before {
+            border-right-color: #d60e10 !important;
+        }
+
+        .restaurantpress .rp-content-wrapper {
+            border-bottom-color: #d60e10 !important;
+        }
+
+        .restaurantpress-page p.price,
+        .restaurantpress-page span.price,
+        .rp-list-design-layout p.price,
+        .rp-list-design-layout span.price {
+            color: #d60e10 !important;
+        }
+
+        .rp-grid-design-layout ins .amount {
+            color: #fff;
+        }
+
+        .restaurantpress-group #restaurant-press-section a,
+        .restaurantpress-page .restaurantpress-loop-food__title a {
+            color: #d60e10 !important;
+        }
+    </style>
+    <link rel='stylesheet' id='foodhunt-style-css' href='https://demo.themegrill.com/foodhunt/wp-content/themes/foodhunt/style.css?ver=45ed39ed5f333134a42e2e919317b1a3' type='text/css' media='all' />
+    <link rel='stylesheet' id='foodhunt-google-font-css' href='//fonts.googleapis.com/css?family=Lato%3A400%2C300%2C700%7CGreat+Vibes&#038;ver=45ed39ed5f333134a42e2e919317b1a3' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-css' href='https://demo.themegrill.com/foodhunt/wp-content/themes/foodhunt/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+    <link rel='stylesheet' id='jetpack_css-css' href='https://demo.themegrill.com/foodhunt/wp-content/plugins/jetpack/css/jetpack.css?ver=5.8' type='text/css' media='all' />
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var monsterinsights_frontend = { "js_events_tracking": "true", "is_debug_mode": "false", "download_extensions": "doc,exe,js,pdf,ppt,tgz,zip,xls", "inbound_paths": "", "home_url": "https:\/\/demo.themegrill.com\/foodhunt", "track_download_as": "event", "internal_label": "int", "hash_tracking": "false" };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.js?ver=6.2.8'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+    <!--[if lt IE 9]>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/themes/foodhuntjs/html5shiv.min.js?ver=3.7.3'></script>
+    <![endif]-->
+    <link rel='https://api.w.org/' href='https://demo.themegrill.com/foodhunt/wp-json/' />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.themegrill.com/foodhunt/xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://demo.themegrill.com/foodhunt/wp-includes/wlwmanifest.xml" />
+
+    <link rel="canonical" href="https://demo.themegrill.com/foodhunt/" />
+    <link rel='shortlink' href='https://wp.me/P7OZN5-4q' />
+    <link rel="alternate" type="application/json+oembed" href="https://demo.themegrill.com/foodhunt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.themegrill.com%2Ffoodhunt%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="https://demo.themegrill.com/foodhunt/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.themegrill.com%2Ffoodhunt%2F&#038;format=xml" />
+
+    <link rel='dns-prefetch' href='//v0.wordpress.com' />
+    <style type='text/css'>
+        img#wpstats {
+            display: none
+        }
+    </style>
+    <noscript>
+    <style>
+        .restaurantpress-food-gallery {
+            opacity: 1 !important;
+        }
+    </style></noscript>
+    <style type="text/css">
+        .recentcomments a {
+            display: inline !important;
+            padding: 0 !important;
+            margin: 0 !important;
+        }
+    </style>
+
+    <!-- Jetpack Open Graph Tags -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="FoodHunt" />
+    <meta property="og:description" content="Just another ThemeGrill Demo site" />
+    <meta property="og:url" content="https://demo.themegrill.com/foodhunt/" />
+    <meta property="og:site_name" content="FoodHunt" />
+    <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="twitter:text:title" content="Home page" />
+    <meta name="twitter:card" content="summary" />
+    <style type="text/css" id="wp-custom-css">
+				.logo-text-wrapper {
+  margin-top: 30px;
+}
+
+}			</style>
+</head>
+
+<body data-rsssl=1 class="home page-template page-template-page-templates page-template-template-restaurant page-template-page-templatestemplate-restaurant-php page page-id-274 wp-custom-logo restaurantpress restaurantpress-group non-stick">
+
+
+    <div id="page" class="hfeed site">
+
+                <div class="mobile-menu-wrapper">
+                    <div class="tg-container">
+                        <div class="menu-toggle hide">Menu</div>
+                        <ul id="menu-mobile" class="menu">
+
+                            <li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-158"><a href="https://demo.themegrill.com/foodhunt/">Home</a></li>
+                            <li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-160">
+                                <a href="#">Layouts</a>
+                                <ul class="sub-menu">
+                                    <li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-293"><a href="https://demo.themegrill.com/foodhunt/right-sidebar-2/">Right Sidebar</a></li>
+                                    <li id="menu-item-292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-292"><a href="https://demo.themegrill.com/foodhunt/left-sidebar-2/">Left Sidebar</a></li>
+                                    <li id="menu-item-291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291"><a href="https://demo.themegrill.com/foodhunt/no-sidebar-full-width-2/">No Sidebar Full Width</a></li>
+                                    <li id="menu-item-290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-290"><a href="https://demo.themegrill.com/foodhunt/no-sidebar-content-centered-2/">No Sidebar Content Centered</a></li>
+                                </ul>
+                            </li>
+                            <li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330"><a href="http://docs.themegrill.com/foodhunt/">Documentation</a></li>
+
+                            <li id="menu-item-294" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-294"><a href="http://themegrill.com/themes/foodhunt/">Learn More</a></li>
+                            <li id="menu-item-365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-365">
+                                <a>Food Menu</a>
+                                <ul class="sub-menu">
+                                    <li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="https://demo.themegrill.com/foodhunt/one-column/">One Column</a></li>
+                                    <li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="https://demo.themegrill.com/foodhunt/two-column/">Two Column</a></li>
+                                    <li id="menu-item-331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="https://demo.themegrill.com/foodhunt/grid-menu/">Grid Menu</a></li>
+                                </ul>
+                            </li>
+                            <li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="https://demo.themegrill.com/foodhunt/contact-us-now/">Contact Us Now</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                
+
+        <div class="body-content-wrapper">
+
+
+
+            <section id="foodhunt_about_us_widget-2" class="widget about-section clearfix">
+
+                </div>
+            </div><section id="foodhunt_call_to_action_widget-2" class="widget cta-section clearfix">
+                <div class="section-wrapper no-bg-image clearfix" style=background-color:#d30221;>
+                    <div class="section-overlay"> </div>
+                    <div class="tg-container">
+
+                        <div class="cta-wrapper">
+                            <div class="cta-desc">
+                                &quot;The only think I like better than talking about Food is eating&quot;
+                            </div>
+                        </div>
+                    </div>
+                </div>
+  
+
+            </section><section id="foodhunt_portfolio_widget-2" class="widget gallery-section clearfix">
+                <div class="section-wrapper clearfix">
+                    <div class="tg-container">
+
+                        <div class="section-title-wrapper">
+                            <h3 class="section-title">Gallery</h3> <h4 class="sub-title"> Check Our Latest Events &amp; Recipes Photos </h4>
+                        </div>
+
+
+                        <ul class="gallery-wrapper">
+
+                            <li class="gallery-list">
+
+                                <img width="340" height="340" src="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/gallery-img1.jpg" class="attachment-foodhunt-featured-image size-foodhunt-featured-image wp-post-image" alt="" srcset="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/gallery-img1.jpg 340w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/gallery-img1-150x150.jpg 150w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/gallery-img1-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />
+                                <a href="https://demo.themegrill.com/foodhunt/luctus/" class="gallery-zoom"> <span> <i class="fa fa-link"> </i> </span> </a>
+                            </li>
+
+                            <li class="gallery-list">
+
+                                <img width="340" height="340" src="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/prawns.jpg" class="attachment-foodhunt-featured-image size-foodhunt-featured-image wp-post-image" alt="" srcset="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/prawns.jpg 340w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/prawns-150x150.jpg 150w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/prawns-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />
+                                <a href="https://demo.themegrill.com/foodhunt/curabitur/" class="gallery-zoom"> <span> <i class="fa fa-link"> </i> </span> </a>
+                            </li>
+
+                            <li class="gallery-list">
+
+                                <img width="340" height="340" src="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/popcorn.jpg" class="attachment-foodhunt-featured-image size-foodhunt-featured-image wp-post-image" alt="" srcset="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/popcorn.jpg 340w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/popcorn-150x150.jpg 150w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/popcorn-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />
+                                <a href="https://demo.themegrill.com/foodhunt/magna/" class="gallery-zoom"> <span> <i class="fa fa-link"> </i> </span> </a>
+                            </li>
+
+                            <li class="gallery-list">
+
+                                <img width="340" height="340" src="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/gallery-img6.jpg" class="attachment-foodhunt-featured-image size-foodhunt-featured-image wp-post-image" alt="" srcset="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/gallery-img6.jpg 340w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/gallery-img6-150x150.jpg 150w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/gallery-img6-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />
+                                <a href="https://demo.themegrill.com/foodhunt/ornare/" class="gallery-zoom"> <span> <i class="fa fa-link"> </i> </span> </a>
+                            </li>
+
+                            <li class="gallery-list">
+
+                                <img width="340" height="340" src="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/dessert.jpg" class="attachment-foodhunt-featured-image size-foodhunt-featured-image wp-post-image" alt="" srcset="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/dessert.jpg 340w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/dessert-150x150.jpg 150w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/dessert-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />
+                                <a href="https://demo.themegrill.com/foodhunt/aliquam/" class="gallery-zoom"> <span> <i class="fa fa-link"> </i> </span> </a>
+                            </li>
+
+                            <li class="gallery-list">
+
+                                <img width="340" height="340" src="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/cake.jpg" class="attachment-foodhunt-featured-image size-foodhunt-featured-image wp-post-image" alt="" srcset="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/cake.jpg 340w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/cake-150x150.jpg 150w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/cake-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />
+                                <a href="https://demo.themegrill.com/foodhunt/hendrerit-mauris/" class="gallery-zoom"> <span> <i class="fa fa-link"> </i> </span> </a>
+                            </li>
+
+                            <li class="gallery-list">
+
+                                <img width="340" height="340" src="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/cockle.jpg" class="attachment-foodhunt-featured-image size-foodhunt-featured-image wp-post-image" alt="" srcset="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/cockle.jpg 340w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/cockle-150x150.jpg 150w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/cockle-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />
+                                <a href="https://demo.themegrill.com/foodhunt/fermentum/" class="gallery-zoom"> <span> <i class="fa fa-link"> </i> </span> </a>
+                            </li>
+
+                            <li class="gallery-list">
+
+                                <img width="340" height="340" src="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/avocado-salad.jpg" class="attachment-foodhunt-featured-image size-foodhunt-featured-image wp-post-image" alt="" srcset="https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/avocado-salad.jpg 340w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/avocado-salad-150x150.jpg 150w, https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/avocado-salad-300x300.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />
+                                <a href="https://demo.themegrill.com/foodhunt/varius-purus/" class="gallery-zoom"> <span> <i class="fa fa-link"> </i> </span> </a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div><!-- .section-wrapper -->
+
+            </section><section id="foodhunt_call_to_action_widget-3" class="widget cta-section clearfix">
+                <div class="section-wrapper section-wrapper-with-bg-image clearfix" style=background-image:url(https://demo.themegrill.com/foodhunt/wp-content/uploads/sites/48/2016/01/cta_new.jpg);background-repeat:no-repeat;background-size:cover;background-attachment:fixed;>
+                    <div class="section-overlay"> </div>
+                    <div class="tg-container">
+
+                        <div class="cta-wrapper">
+                            <div class="cta-desc">
+                                Daily exercise and Quality Food is the key to remain Healthy
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section><section id="foodhunt_contact_widget-2" class="widget contact-section clearfix">
+                <div class="section-wrapper clearfix">
+                    <div class="tg-container">
+
+                        <div class="section-title-wrapper">
+                            <h3 class="section-title">Contact Us</h3>					<h4 class="sub-title">Book a Table</h4>
+                        </div>
+
+                        <div class="contact-wrapper">
+                            <div class="tg-column-wrapper clearfix">
+                                <div class="tg-column-2 contact-form">
+
+                                    <div role="form" class="wpcf7" id="wpcf7-f157-o1" lang="en-US" dir="ltr">
+                                        <div class="screen-reader-response"></div>
+                                        <form action="/foodhunt/#wpcf7-f157-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+                                            <div style="display: none;">
+                                                <input type="hidden" name="_wpcf7" value="157" />
+                                                <input type="hidden" name="_wpcf7_version" value="5.0" />
+                                                <input type="hidden" name="_wpcf7_locale" value="en_US" />
+                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f157-o1" />
+                                                <input type="hidden" name="_wpcf7_container_post" value="0" />
+                                            </div>
+                                            <p>
+                                                Your Name (required)<br />
+                                                <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span>
+                                            </p>
+                                            <p>
+                                                Your Email (required)<br />
+                                                <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span>
+                                            </p>
+                                            <p>
+                                                Subject<br />
+                                                <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span>
+                                            </p>
+                                            <p>
+                                                Your Message<br />
+                                                <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span>
+                                            </p>
+                                            <p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+                                            <input type='hidden' id='ct_checkjs_cf7_5ec91aac30eae62f4140325d09b9afd0' name='ct_checkjs_cf7' value='0' />
+                                            <script type='text/javascript'>setTimeout(function () { var ct_input_name = 'ct_checkjs_cf7_5ec91aac30eae62f4140325d09b9afd0'; if (document.getElementById(ct_input_name) !== null) { var ct_input_value = document.getElementById(ct_input_name).value; document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '1822705247'); } }, 1000);</script><div class="wpcf7-response-output wpcf7-display-none"></div>
+                                        </form>
+                                    </div>
+                                </div>
+
+                                <div class="tg-column-2 contact-details-wrapper">
+
+                                    <h3 class="contact-title"> Contact Us Now </h3>
+
+                                    <div class="contact-content-wrapper">
+                                        <div class="contact-quote">We are also active in social media. You can find uson below adresses.</div>
+                                        <div class="contact-details clearfix">
+                                            <div class="contact-detail-block">
+                                                <div class="contact-icon"><i class="fa fa-map-marker"> </i></div>
+                                                <div class="contact-text">
+                                                   Bulgaria <br />
+                                                    Plovdiv
+                                                </div>
+                                            </div>
+                                            <div class="contact-detail-block">
+                                                <div class="contact-icon"><i class="fa fa-clock-o"> </i></div>
+                                                <div class="contact-text">
+                                                    Opening Hour<br />
+                                                    8:00 AM &#8211; 10:00 PM
+                                                </div>
+                                            </div>
+                                            <div class="contact-detail-block">
+                                                <div class="contact-icon"><i class="fa fa-envelope"> </i></div>
+                                                <div class="contact-text">
+                                                    Email<br />
+                                                    bookatable@gmail.com
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div role="form" class="wpcf7" id="wpcf7-f157-o2" lang="en-US" dir="ltr">
+                                            <div class="screen-reader-response"></div>
+                                            <form action="/foodhunt/#wpcf7-f157-o2" method="post" class="wpcf7-form" novalidate="novalidate">
+                                                <div style="display: none;">
+                                                    <input type="hidden" name="_wpcf7" value="157" />
+                                                    <input type="hidden" name="_wpcf7_version" value="5.0" />
+                                                    <input type="hidden" name="_wpcf7_locale" value="en_US" />
+                                                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f157-o2" />
+                                                    <input type="hidden" name="_wpcf7_container_post" value="0" />
+                                                </div>
+                                                <p>
+                                                    Your Name (required)<br />
+                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span>
+                                                </p>
+                                                <p>
+                                                    Your Email (required)<br />
+                                                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span>
+                                                </p>
+                                                <p>
+                                                    Subject<br />
+                                                    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span>
+                                                </p>
+                                                <p>
+                                                    Your Message<br />
+                                                    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span>
+                                                </p>
+                                                <p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+                                                <input type='hidden' id='ct_checkjs_cf7_d2ed45a52bc0edfa11c2064e9edee8bf' name='ct_checkjs_cf7' value='0' />
+                                                <script type='text/javascript'>setTimeout(function () { var ct_input_name = 'ct_checkjs_cf7_d2ed45a52bc0edfa11c2064e9edee8bf'; if (document.getElementById(ct_input_name) !== null) { var ct_input_value = document.getElementById(ct_input_name).value; document.getElementById(ct_input_name).value = document.getElementById(ct_input_name).value.replace(ct_input_value, '1822705247'); } }, 1000);</script><div class="wpcf7-response-output wpcf7-display-none"></div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- .contact-wrapper -->
+                    </div><!-- .tg-container -->
+                </div>
+            </section>
+
+
+        </div><!--  body-content-wrapper end -->
+
+        <footer id="colophon" class="site-footer" role="contentinfo">
+
+        <a href="#" class="scrollup"><i class="fa fa-angle-up"> </i> </a>
+    </div><!-- #page -->
+
+    <div class="search-box">
+        <div class="search-form-wrapper">
+
+            <form role="search" method="get" class="search-form clearfix" action="https://demo.themegrill.com/foodhunt/">
+                <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+                <button type="submit" class="search-submit" name="submit" value="Search"><i class="fa fa-search"></i></button>
+            </form>
+            <div class="close"> close me </div>
+        </div>
+    </div>
+    <script type='text/javascript'>function ctSetCookie(c_name, value, def_value) { document.cookie = c_name + '=' + escape(value) + '; path=/'; } ctSetCookie('ct_checkjs', '1822705247', '0');</script>	<div style="display:none">
+    </div>
+
+    <!-- Root element of PhotoSwipe. Must have class pswp. -->
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+        <!-- Background of PhotoSwipe. It's a separate element as animating opacity is faster than rgba(). -->
+        <div class="pswp__bg"></div>
+
+        <!-- Slides wrapper with overflow:hidden. -->
+        <div class="pswp__scroll-wrap">
+
+            <!-- Container that holds slides.
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+            <div class="pswp__container">
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+                <div class="pswp__item"></div>
+            </div>
+
+            <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+            <div class="pswp__ui pswp__ui--hidden">
+
+                <div class="pswp__top-bar">
+
+                    <!--  Controls are self-explanatory. Order can be changed. -->
+
+                    <div class="pswp__counter"></div>
+
+                    <button class="pswp__button pswp__button--close" aria-label="Close (Esc)"></button>
+
+                    <button class="pswp__button pswp__button--share" aria-label="Share"></button>
+
+                    <button class="pswp__button pswp__button--fs" aria-label="Toggle fullscreen"></button>
+
+                    <button class="pswp__button pswp__button--zoom" aria-label="Zoom in/out"></button>
+
+                    <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                    <!-- element will get class pswp__preloader--active when preloader is running -->
+                    <div class="pswp__preloader">
+                        <div class="pswp__preloader__icn">
+                            <div class="pswp__preloader__cut">
+                                <div class="pswp__preloader__donut"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                    <div class="pswp__share-tooltip"></div>
+                </div>
+
+                <button class="pswp__button pswp__button--arrow--left" aria-label="Previous (arrow left)"></button>
+
+                <button class="pswp__button pswp__button--arrow--right" aria-label="Next (arrow right)"></button>
+
+                <div class="pswp__caption">
+                    <div class="pswp__caption__center"></div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var ctNocache = { "ajaxurl": "https:\/\/demo.themegrill.com\/foodhunt\/wp-admin\/admin-ajax.php", "info_flag": "", "set_cookies_flag": "1", "blog_home": "https:\/\/demo.themegrill.com\/foodhunt\/" };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/cleantalk-spam-protect/js/apbct-public.js?ver=5.87'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var wpcf7 = { "apiSettings": { "root": "https:\/\/demo.themegrill.com\/foodhunt\/wp-json\/contact-form-7\/v1", "namespace": "contact-form-7\/v1" }, "recaptcha": { "messages": { "empty": "Please verify that you are not a robot." } }, "cached": "1" };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0'></script>
+    <script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201810'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/js/zoom/jquery.zoom.min.js?ver=1.7.15'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/js/flexslider/jquery.flexslider.min.js?ver=2.6.1'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var rp_single_food_params = { "flexslider": { "rtl": false, "animation": "slide", "smoothHeight": true, "directionNav": false, "controlNav": "thumbnails", "slideshow": false, "animationSpeed": 500, "animationLoop": false, "allowOneSlide": false }, "zoom_enabled": "", "photoswipe_enabled": "1", "photoswipe_options": { "shareEl": false, "closeOnScroll": false, "history": false, "hideAnimationDuration": 0, "showAnimationDuration": 0 }, "flexslider_enabled": "1" };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/js/frontend/single-food.min.js?ver=1.6.0'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/restaurantpress/assets/js/frontend/restaurantpress.min.js?ver=1.6.0'></script>
+    <script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Maraa'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var WPGroHo = { "my_hash": "" };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/plugins/jetpack/modules/wpgroho.js?ver=45ed39ed5f333134a42e2e919317b1a3'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/themes/foodhunt/js/jquery.bxslider.min.js?ver=4.2.12'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/themes/foodhunt/js/jquery.parallax-1.1.3.min.js?ver=1.1.3'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/themes/foodhunt/js/jquery.ticker.min.js?ver=1.2.1'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var foodhunt_slider_value = { "slider_controls": "0", "slider_pager": "1" };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-content/themes/foodhunt/js/foodhunt-custom.min.js?ver=45ed39ed5f333134a42e2e919317b1a3'></script>
+    <script type='text/javascript' src='https://demo.themegrill.com/foodhunt/wp-includes/js/wp-embed.min.js?ver=45ed39ed5f333134a42e2e919317b1a3'></script>
+    <script type='text/javascript' src='https://stats.wp.com/e-201810.js' async='async' defer='defer'></script>
+    <script type='text/javascript'>
+        _stq = window._stq || [];
+        _stq.push(['view', { v: 'ext', j: '1:5.8', blog: '115588279', post: '274', tz: '0', srv: 'demo.themegrill.com' }]);
+        _stq.push(['clickTrackerInit', '115588279', '274']);
+    </script>
+
+</body>
+</html>

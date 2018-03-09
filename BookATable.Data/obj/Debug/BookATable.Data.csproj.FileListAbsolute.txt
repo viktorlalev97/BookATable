@@ -1,0 +1,55 @@
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\bin\Debug\BookATable.Data.dll.config
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\bin\Debug\BookATable.Data.dll
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\bin\Debug\BookATable.Data.pdb
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\bin\Debug\BookATable.Entity.dll
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\bin\Debug\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\obj\Debug\BookATable.Data.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\obj\Debug\BookATable.Data.dll
+C:\Users\ACER\Desktop\project 2\BookATable\BookATable.Data\obj\Debug\BookATable.Data.pdb
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\bin\Debug\BookATable.Data.dll.config
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\bin\Debug\BookATable.Data.dll
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\bin\Debug\BookATable.Data.pdb
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\bin\Debug\BookATable.Entity.dll
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\bin\Debug\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\obj\Debug\BookATable.Data.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\obj\Debug\BookATable.Data.Migrations.InitialCreate.resources
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\obj\Debug\BookATable.Data.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\obj\Debug\BookATable.Data.dll
+C:\Users\ACER\Desktop\project 2\Нова папка (2)\BookATable\BookATable.Data\obj\Debug\BookATable.Data.pdb
+D:\University\Subitiino programirane\BookATable\BookATable.Data\bin\Debug\BookATable.Data.dll.config
+D:\University\Subitiino programirane\BookATable\BookATable.Data\bin\Debug\BookATable.Data.dll
+D:\University\Subitiino programirane\BookATable\BookATable.Data\bin\Debug\BookATable.Data.pdb
+D:\University\Subitiino programirane\BookATable\BookATable.Data\bin\Debug\BookATable.Entity.dll
+D:\University\Subitiino programirane\BookATable\BookATable.Data\bin\Debug\EntityFramework.dll
+D:\University\Subitiino programirane\BookATable\BookATable.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\Subitiino programirane\BookATable\BookATable.Data\bin\Debug\BookATable.Entity.pdb
+D:\University\Subitiino programirane\BookATable\BookATable.Data\bin\Debug\EntityFramework.xml
+D:\University\Subitiino programirane\BookATable\BookATable.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\Subitiino programirane\BookATable\BookATable.Data\obj\Debug\BookATable.Data.csprojResolveAssemblyReference.cache
+D:\University\Subitiino programirane\BookATable\BookATable.Data\obj\Debug\BookATable.Data.Migrations.InitialCreate.resources
+D:\University\Subitiino programirane\BookATable\BookATable.Data\obj\Debug\BookATable.Data.csproj.GenerateResource.Cache
+D:\University\Subitiino programirane\BookATable\BookATable.Data\obj\Debug\BookATable.Data.dll
+D:\University\Subitiino programirane\BookATable\BookATable.Data\obj\Debug\BookATable.Data.pdb
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Debug\BookATable.Data.dll.config
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Debug\BookATable.Data.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Debug\BookATable.Data.pdb
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Debug\BookATable.Entity.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Debug\BookATable.Entity.pdb
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Debug\BookATable.Data.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Debug\BookATable.Data.Migrations.InitialCreate.resources
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Debug\BookATable.Data.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Debug\BookATable.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Debug\BookATable.Data.dll
+C:\Users\ACER\Desktop\BookATable1\BookATable.Data\obj\Debug\BookATable.Data.pdb

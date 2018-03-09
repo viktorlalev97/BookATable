@@ -1,0 +1,47 @@
+﻿@model BookATable.ViewModels.Restaurants.RestaurantsListViewModel
+
+<h2>Restaurants</h2>
+@{
+    if (BookATable.Filters.AdminFilter.IsAdmin())
+    {
+        @Html.ActionLink("Create new", "Create", "Restaurants")
+    }
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Phone</th>
+            <th>Capacity</th>
+            <th>OpenHour</th>
+            <th>CloseHour</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var restaurant in Model.Restaurants)
+        {
+            <tr>
+                <td>@restaurant.Name</td>
+                <td>@restaurant.Address</td>
+                <td>@restaurant.Phone</td>
+                <td>@restaurant.Capacity</td>
+                <td>@restaurant.OpenHour</td>
+                <td>@restaurant.CloseHour</td>
+           
+                
+                @{
+                    if (BookATable.Filters.AdminFilter.IsAdmin())
+                    {
+                        <td>@Html.ActionLink("Edit", "Edit", "Restaurants", new { id = restaurant.ID }, new { @class = "btn btn-success glypchicon glyphicon-pencil" })</td>
+
+                        <td>@Html.ActionLink("Delete", "Delete", "Restaurants", new { id = restaurant.ID }, new { @class = "btn btn-danger" })</td>
+
+                    }
+                }
+                
+            </tr>
+        }
+    </tbody>
+</table>
